@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Products | Sai Panacea Interiors</title>
+    <link rel="shortcut icon" href="assets/logosq.PNG">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="hh">
+        <div class="container">
+            <img id="logo" src="assets/logo.png" alt=" ">
+            <header id="Homeh1">
+                <h1 id="Home" class="head1">Sai Panacea Interiors</h1>
+                <h3 id="tagline">Architect's No.1 Choice</h3>
+            </header>
+            <a class="btn" href="tel:+91-98224-17885" target="_blank" data-tracking-element-type="3"
+                jslog="56037; track:impression,click" itemprop="telephone" dir="ltr">Call Now</a>
+            <a class="btn"
+                href="https://www.google.com/maps/dir//Sai+Panacea+Interiors/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc2ebd905d0afe3:0xf2c5b7281d6ae662!2m2!1d73.8483665!2d18.4421626"
+                target="_blank" data-tracking-element-type="6" jslog="56039; track:impression,click">Get
+                Directions</a>
+                <a class="btn" href="https://wa.me/message/RJ4DVDRLBH7RE1" target="_blank"> Chat With Us
+                </a>
+        </div>
+        <hr>
+        <nav id="navbar">
+            <div>
+                <ul>
+                    <li><a href="home.html" id="home">Home</a></li>
+                    <li><a href="products.html" id="products">Products</a></li>
+                    <li><a href="home.html#aboutus" id="about">About Us</a></li>
+                    <li><a href="home.html#contactus" id="contact">Contact Us</a></li>
+                    <li><a href="" id="catalogue">Get Catalogue</a></li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <div class="beforeNav">
+        <h1>Our Products</h1>
+    </div>
+    <div class="productNav" id="productNav">
+        <ul>
+            <li class="list active" data-filter="all"><a>All</a></li>
+            <li class="list" data-filter="Director"><a>Executive Director Chair Series</a></li>
+            <li class="list" data-filter="Workstation"><a>Workstation Chair Series</a></li>
+            <li class="list" data-filter="Visitor"><a>Visitor/Stable/Fix Chair Series</a></li>
+            <li class="list" data-filter="Training"><a>Educational/Training Chair Series</a></li>
+            <li class="list" data-filter="Visitor-Waiting-Unit"><a>Visitor Waiting Units</a></li>
+            <li class="list" data-filter="High-Counter"><a>High Counter Chair Series</a></li>
+            <li class="list" data-filter="Cafeteria-Restaurant"><a>Cafeteria/Restaurant Chair Series</a></li>
+            <li class="list" data-filter="Sofa"><a>Sofa Series</a></li>
+            <li class="list" data-filter="Roller-Blinds"><a>Window Blinds (Curtains)</a></li>
+            <li class="list" data-filter="Gaming"><a>Gaming Chair Series</a></li>
+        </ul>
+    </div>
+    <div class="productDiv" id="productDiv">
+    </div>
+</body>
+<script src="jquery.js"></script>
+<script>
+    // let options={
+    //     root: null,
+    //     rootMargin: '0px',
+    //     threshold:0.25
+    // };
+    // let callback=(entries, observer)=>{
+    //     entries.forEach(entry=>{
+    //         if(entry.isIntersecting && entry.target.className == 'image'){
+    //             let imageUrl= entry.target.getAttribute('data-img')
+    //             if(imageUrl){
+    //                 entry.target.src=imageUrl;
+    //                 observer.unobserver(entry.target);
+    //             }
+    //         }
+    //     });
+    // }
+    // let observer= new IntersectionObserver(callback, options);
+
+
+    let TotalNoOfEle=0;
+    function list() {
+        let loopno = 0;
+        fetch("/pdata.json")
+            .then(response => response.json())
+            .then(rsp => {
+                // console.log(rsp.data);
+                rsp.data.forEach(element => {
+                    loopno += 1;
+                    let name = element.Name;
+                    let type = element.Type;
+                    let description = element.Description;
+                    let price = element.Price;
+                    TotalNoOfEle+=1;
+
+                    var generateHere = document.getElementById("productDiv");
+                    generateHere.innerHTML += `<span class="item-` + loopno + `">
+            <div class="boxProd `+ type + `">
+                <div class="slide-img">
+                    <img src="assets/products/`+ loopno + `.PNG" alt="">
+                    <div class="overlay">
+                        <a href="https://wa.me/message/RJ4DVDRLBH7RE1" target="_blank" class="Order-btn">Order Now</a>
+                    </div>
+                </div>
+                <div class="detail-box">
+                    <div class="type">
+                        <a href="#" class="name">`+ name +`</a>
+                        <a href="#" class="price">`+ price + `</a>
+                    </div><br>
+                    <p class="des1"> Item #: `+element.Itemno+`</p><br><p class="des1">Type: `+type+`</p><br>
+                    <span>`+ description + `</span>
+                </div>
+            </div>
+        </span>`
+                });
+            })
+    }
+
+    const images = document.querySelectorAll("[data-src]");
+
+    function preloadImage(img){
+        const src= img.getAttribute("data-src");
+        if(!src){
+            return;
+        }
+        img.src=src;
+    }
+
+    let options={
+        root: null,
+        rootMargin: '50px',
+        threshold:0.25
+    };
+    let callback=(entries, observer)=>{
+        entries.forEach(entry=>{
+            if(!entry.isIntersecting){
+                return;
+            }
+            else{
+                preloadImage(entry.target);
+                observer.unobserve(entry.target);
+            }
+        })
+    }
+    let observer= new IntersectionObserver(callback, options);
+
+    images.forEach(image=>{
+        observer.observe(image);
+    })
+
+
+
+
+
+    $(document).ready(function(){
+                $('.list').click(function(){
+                    const value=$(this).attr('data-filter');
+                    if(value=='all'){
+                        $('.boxProd').show('1000');
+                    }
+                    else{
+                        $('.boxProd').not('.'+value).hide('1000');
+                        $('.boxProd').filter('.'+value).show('1000');
+                    }
+                })
+            })
+            $('.list').click(function(){
+                $(this).addClass('active').siblings().removeClass('active');
+            })
+    list();
+
+    
+    
+</script>
+
+</html>

@@ -1,0 +1,1003 @@
+{
+    "data": [
+        {
+            "Name": "PRINCE- High Back",
+            "Description": "Exclusive Quality Composite Leather for seat and back. Chrome Adjustable arm rest and Chrome base with Heavy-Duty Castor wheels. Synchro-Tilt Push Back Mechanism. Available in both High Back and Medium Back.",
+            "Type": "Director",
+            "Price": "Rs.23,000",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-DCHB-1001"
+        },
+        {
+            "Name": "PRINCE- Medium Back",
+            "Description": "Exclusive Quality Composite Leather for seat and back. Chrome Adjustable arm rest and Chrome base with Heavy-Duty Castor wheels. Synchro-Tilt Push Back Mechanism. Available in both High Back and Medium Back.",
+            "Type": "Director",
+            "Price": "Rs.21,000",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-DCMB-1001"
+        },
+        {
+            "Name": "KING-High Back",
+            "Description": "Exclusive Quality Composite Leather for seat and back. Chrome Fixed arm rest and Chrome base with Heavy-Duty Castor wheels. Center-Tilt Mechanism. Available in both High Back and Medium Back.",
+            "Type": "Director",
+            "Price": "Rs. 21,000",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-DCHB-1002"
+        },
+        {
+            "Name": "KING-Medium Back",
+            "Description": "Exclusive Quality Composite Leather for seat and back. Chrome Fixed arm rest and Chrome base with Heavy-Duty Castor wheels. Center-Tilt Mechanism. Available in both High Back and Medium Back.",
+            "Type": "Director",
+            "Price": "Rs. 19,000",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-DCMB-1002"
+        },
+        {
+            "Name": "PLATINA-High Back",
+            "Description": "Exclusive Quality Composite Leather for seat and back. Chrome Fixed arm rest and Chrome base with Heavy-Duty Castor wheels. Center-Tilt Mechanism. Available in both High Back and Medium Back.",
+            "Type": "Director",
+            "Price": "Rs. 13,000",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-DCHB-1003"
+        },
+        {
+            "Name": "PLATINA-Medium Back",
+            "Description": "Exclusive Quality Composite Leather for seat and back. Chrome Fixed arm rest and Chrome base with Heavy-Duty Castor wheels. Center-Tilt Mechanism. Available in both High Back and Medium Back.",
+            "Type": "Director",
+            "Price": "Rs.12,000",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-DCMB-1003"
+        },
+        {
+            "Name": "MAHARAJA -High Back",
+            "Description": "Exclusive Quality Composite Leather for seat and back. Wooden Cushioned Fixed arm rest and Chrome base with Heavy-Duty Castor wheels. Center-Tilt Mechanism. Available in both High Back and Medium Back.",
+            "Type": "Director",
+            "Price": "Rs. 25,000",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-DCHB-1004"
+        },
+        {
+            "Name": "MAHARAJA -Medium Back",
+            "Description": "Exclusive Quality Composite Leather for seat and back. Wooden Cushioned Fixed arm rest and Chrome base with Heavy-Duty Castor wheels. Center-Tilt Mechanism. Available in both High Back and Medium Back.",
+            "Type": "Director",
+            "Price": "Rs. 23,000",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-DCMB-1004"
+        },
+        {
+            "Name": "AXIS DLX -High Back",
+            "Description": "Glass filled nylon backrest with lumber support & mesh fabric. Adjustable Armrest with PP pad / Fix PP armrest and Adjustable headrest. Adjustable arm rest and Chrome base with Heavy-Duty Castor wheels. Synchro-Tilt Push Back Mechanism with single position lock. Available in both High Back and Medium Back",
+            "Type": "Director",
+            "Price": "Rs. 17,000",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-DNHB-1005"
+        },
+        {
+            "Name": "AXIS DLX -Medium Back",
+            "Description": "Glass filled nylon backrest with lumber support & mesh fabric. Adjustable Armrest with PP pad / Fix PP armrest and Adjustable headrest. Adjustable arm rest and Chrome base with Heavy-Duty Castor wheels. Synchro-Tilt Push Back Mechanism with single position lock. Available in both High Back and Medium Back",
+            "Type": "Director",
+            "Price": "Rs. 15,000",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-DNMB-1005"
+        },
+        {
+            "Name": "ALPHA DLX -High Back",
+            "Description": "Glass filled nylon backrest with lumber support & mesh fabric. Adjustable Armrest with PP pad and Adjustable headrest. Chrome base with Heavy-Duty Castor wheels. Synchro-Tilt Push Back Mechanism with single position lock. Available in both High Back and Medium Back.",
+            "Type": "Director",
+            "Price": "Rs.15,000",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-DNHB-1006"
+        },
+        {
+            "Name": "ALPHA DLX -Medium Back",
+            "Description": "Glass filled nylon backrest with lumber support & mesh fabric. Adjustable Armrest with PP pad and Adjustable headrest. Chrome base with Heavy-Duty Castor wheels. Synchro-Tilt Push Back Mechanism with single position lock. Available in both High Back and Medium Back.",
+            "Type": "Director",
+            "Price": "Rs.13,000",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-DNMB-1006"
+        },
+        {
+            "Name": "BETA DLX-High Back",
+            "Description": "Glass filled nylon backrest with lumber support & mesh fabric. Adjustable Armrest with PP pad / Fix PP armrest and Adjustable headrest. Chrome base with Heavy-Duty Castor wheels. Synchro-Tilt Push Back Mechanism with single position lock. Available in both High Back and Medium Back.",
+            "Type": "Director",
+            "Price": "Rs. 9,200",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-DNHB-1007"
+        },
+        {
+            "Name": "BETA DLX -Medium Back",
+            "Description": "Glass filled nylon backrest with lumber support & mesh fabric. Adjustable Armrest with PP pad / Fix PP armrest and Adjustable headrest. Chrome base with Heavy-Duty Castor wheels. Synchro-Tilt Push Back Mechanism with single position lock. Available in both High Back and Medium Back.",
+            "Type": "Director",
+            "Price": "Rs. 8,500",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-DNMB-1007"
+        },
+        {
+            "Name": "GAMMA DLX-High Back-Made in India",
+            "Description": "Glass filled nylon backrest with lumber support & mesh fabric. Adjustable Armrest with PP pad / Fix PP armrest and Adjustable headrest. Chrome Adjustable arm rest and Chrome base with Heavy-Duty Castor wheels. Synchro-Tilt Push Back Mechanism with single position lock. Available in both High Back and Medium Back.",
+            "Type": "Director",
+            "Price": "Rs.16,300",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-DNHB-1008"
+        },
+        {
+            "Name": "GAMMA DLX-Medium Back- Made in India",
+            "Description": "Glass filled nylon backrest with lumber support & mesh fabric. Adjustable Armrest with PP pad / Fix PP armrest and Adjustable headrest. Chrome Adjustable arm rest and Chrome base with Heavy-Duty Castor wheels. Synchro-Tilt Push Back Mechanism with single position lock. Available in both High Back and Medium Back.",
+            "Type": "Director",
+            "Price": "Rs.14,800",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-DNMB-1008"
+        },
+        {
+            "Name": "GAMMA DLX-High Back-Imported Premium Quality",
+            "Description": "Glass filled nylon backrest with lumber support & mesh fabric. Adjustable Armrest with PP pad / Fix PP armrest and Adjustable headrest. Chrome Adjustable arm rest and Chrome base with Heavy-Duty Castor wheels. Synchro-Tilt Push Back Mechanism with single position lock. Available in both High Back and Medium Back.",
+            "Type": "Director",
+            "Price": "Rs.29,200",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-DNHB-1009"
+        },
+        {
+            "Name": "GAMMA DLX-Medium Back- Imported Premium Quality",
+            "Description": "Glass filled nylon backrest with lumber support & mesh fabric. Adjustable Armrest with PP pad / Fix PP armrest and Adjustable headrest. Chrome Adjustable arm rest and Chrome base with Heavy-Duty Castor wheels. Synchro-Tilt Push Back Mechanism with single position lock. Available in both High Back and Medium Back.",
+            "Type": "Director",
+            "Price": "Rs.28,000",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-DNMB-1009"
+        },
+        {
+            "Name": "MERCURY DLX",
+            "Description": "Chrome Metal Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Centre-Tilt Mechanism with single position locking. Glass filled nylon back with fabric mesh. P.U. cushion seat with hotpressed plywood. Fixed PP Arms attached with back.",
+            "Type": "Workstation",
+            "Price": "Rs.7,400",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWSDLX-1010"
+        },
+        {
+            "Name": "MERCURY",
+            "Description": "Plastic Molded Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Centre-Tilt Mechanism with single position locking. Glass filled nylon back with fabric mesh. P.U. cushion seat with hotpressed plywood. Fixed PP Arms attached with back.",
+            "Type": "Workstation",
+            "Price": "Rs.6850",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWS-1010"
+        },
+        {
+            "Name": "VENUS  DLX",
+            "Description": "Chrome Metal Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Centre-Tilt Mechanism with single position locking. Glass filled nylon back with fabric mesh. P.U. cushion seat with hotpressed plywood. Fixed PP Arms attached with back.",
+            "Type": "Workstation",
+            "Price": "Rs.6,550",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWSDLX-1011"
+        },
+        {
+            "Name": "VENUS",
+            "Description": "Plastic Molded Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Centre-Tilt Mechanism with single position locking. Glass filled nylon back with fabric mesh. P.U. cushion seat with hotpressed plywood. Fixed PP Arms attached with back.",
+            "Type": "Workstation",
+            "Price": "Rs.5900",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWS-1011"
+        },
+        {
+            "Name": "EARTH DLX",
+            "Description": "Chrome Metal Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Push Back Mechanism with single position locking. Glass filled nylon back with fabric mesh. P.U. cushion seat with hotpressed plywood. Fixed PP Arms attached with back.  castor & Class 4 Gas-lift. Push Back Mechanism with single position locking. Glass filled nylon back with fabric mesh. P.U. cushion seat with hotpressed plywood. Fixed PP Arms attached with back.",
+            "Type": "Workstation",
+            "Price": "Rs.4,850",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWSDLX-1012"
+        },
+        {
+            "Name": "EARTH",
+            "Description": "Plastic Molded Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Centre-Tilt Mechanism with single position locking. Glass filled nylon back with fabric mesh. P.U. cushion seat with hotpressed plywood. Fixed PP Arms attached with back.",
+            "Type": "Workstation",
+            "Price": "Rs.4500",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWS-1012"
+        },
+        {
+            "Name": "MARS DLX",
+            "Description": "Chrome Metal Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Push Back Mechanism with single position locking. Glass filled nylon back with fabric mesh. P.U. cushion seat with hotpressed plywood. Fixed Soft P.U. Arms with Chrome Plated Handle used.",
+            "Type": "Workstation",
+            "Price": "Rs.7,500",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWSDLX-1013"
+        },
+        {
+            "Name": "MARS",
+            "Description": "Plastic Molded Base.Glass filled Nylon base with castor & Class 4 Gas-lift. Push Back Mechanism with single position locking. Glass filled nylon back with fabric mesh. P.U. cushion seat with hotpressed plywood. Fixed Soft P.U. Arms with Chrome Plated Handle used.",
+            "Type": "Workstation",
+            "Price": "Rs.7,100",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWS-1013"
+        },
+        {
+            "Name": "JUPITER DLX",
+            "Description": "Chrome Metal Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Centre-Tilt Mechanism with single position locking. Glass filled nylon back with fabric mesh. P.U. cushion seat with hotpressed plywood. Fixed PP Arms attached with back. ",
+            "Type": "Workstation",
+            "Price": "Rs.4,500",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWSDLX-1014"
+        },
+        {
+            "Name": "JUPITER",
+            "Description": "Plastic Molded Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Centre-Tilt Mechanism with single position locking. Glass filled nylon back with fabric mesh. P.U. cushion seat with hotpressed plywood. Fixed PP Arms attached with back. ",
+            "Type": "Workstation",
+            "Price": "Rs.4,100",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWS-1014"
+        },
+        {
+            "Name": "SATURN DLX",
+            "Description": "Chrome Metal Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Centre-Tilt Mechanism with single position locking. Glass filled nylon back with fabric mesh. P.U. cushion seat with hotpressed plywood. Fixed PP Arms attached with back. ",
+            "Type": "Workstation",
+            "Price": "Rs.4,600",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWSDLX-1015"
+        },
+        {
+            "Name": "SATURN",
+            "Description": "Plastic Molded Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Centre-Tilt Mechanism with single position locking. Glass filled nylon back with fabric mesh. P.U. cushion seat with hotpressed plywood. Fixed PP Arms attached with back. ",
+            "Type": "Workstation",
+            "Price": "Rs.4,250",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWS-1015"
+        },
+        {
+            "Name": "URANUS DLX",
+            "Description": "Chrome Metal Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Push Back Mechanism with single position locking. Glass filled nylon back with fabric mesh. P.U. cushion seat with hotpressed plywood. Fixed PP Arm-rest.",
+            "Type": "Workstation",
+            "Price": "Rs.4,850",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWSDLX-1016"
+        },
+        {
+            "Name": "URANUS",
+            "Description": "Plastic Molded Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Push Back Mechanism with single position locking. Glass filled nylon back with fabric mesh. P.U. cushion seat with hotpressed plywood. Fixed PP Arm-rest.",
+            "Type": "Workstation",
+            "Price": "Rs.4,400",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWS-1016"
+        },
+        {
+            "Name": "NEPTUNE  DLX",
+            "Description": "Chrome Metal Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Centre-Tilt Mechanism with single position locking. Glass filled nylon back with fabric mesh. P.U. cushion seat with hotpressed plywood. Fixed PP Arms attached with back. ",
+            "Type": "Workstation",
+            "Price": "Rs.4,350",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWSDLX-1017"
+        },
+        {
+            "Name": "NEPTUNE",
+            "Description": "Plastic Molded Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Centre-Tilt Mechanism with single position locking. Glass filled nylon back with fabric mesh. P.U. cushion seat with hotpressed plywood. Fixed PP Arms attached with back. ",
+            "Type": "Workstation",
+            "Price": "Rs.3,900",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWS-1017"
+        },
+        {
+            "Name": "PLUTO DLX",
+            "Description": "Chrome Metal Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Push Back Mechanism with single position locking. Glass filled nylon back with fabric mesh. P.U. cushion seat with hotpressed plywood. Adjustable Metal Handle with PP Arm-rest.",
+            "Type": "Workstation",
+            "Price": "Rs.4,300",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWSDLX-1018"
+        },
+        {
+            "Name": "PLUTO",
+            "Description": "Plastic Molded Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Push Back Mechanism with single position locking. Glass filled nylon back with fabric mesh. P.U. cushion seat with hotpressed plywood. Adjustable Metal Handle with PP Arm-rest.",
+            "Type": "Workstation",
+            "Price": "Rs.3,900",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWS-1018"
+        },
+        {
+            "Name": "RYDER - High Back",
+            "Description": "Push Back Mechanism with single position locking. P.U. cushion seat with hot-pressed plywood. Fixed Soft P.U. Arms with Chrome Plated Handle. High Quality Cushion and Composite Leather or Fabric of any color available. Available in both High back and Medium Back. Any color/handle/base as per your choice can be made available.",
+            "Type": "Workstation",
+            "Price": "Rs.8,250",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWSDLX-1019"
+        },
+        {
+            "Name": "RYDER - Medium Back",
+            "Description": "Push Back Mechanism with single position locking. P.U. cushion seat with hot-pressed plywood. Fixed Soft P.U. Arms with Chrome Plated Handle. High Quality Cushion and Composite Leather or Fabric of any color available. Available in both High back and Medium Back. Any color/handle/base as per your choice can be made available.",
+            "Type": "Workstation",
+            "Price": "Rs.7,500",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWS-1019"
+        },
+        {
+            "Name": "COSMOS STR - High Back",
+            "Description": "Push Back Mechanism with single position locking. P.U. cushion seat & Backrest with hot-pressed plywood. Adjustable Superior Quality and Heavy-Duty Soft P.U. Arm-Rest with Chrome Plated Handle. High Quality Cushion and Composite Leather or Fabric of any color available. Available in both High back and Medium Back. Any color/handle/base as per your choice can be made available.",
+            "Type": "Workstation",
+            "Price": "Rs.9,900",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWSDLX-1020"
+        },
+        {
+            "Name": "COSMOS STR - Medium Back",
+            "Description": "Push Back Mechanism with single position locking. P.U. cushion seat & Backrest with hot-pressed plywood. Adjustable Superior Quality and Heavy-Duty Soft P.U. Arm-Rest with Chrome Plated Handle. High Quality Cushion and Composite Leather or Fabric of any color available. Available in both High back and Medium Back. Any color/handle/base as per your choice can be made available.",
+            "Type": "Workstation",
+            "Price": "Rs.8,700",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWS-1020"
+        },
+        {
+            "Name": "SLEEK STR - High Back",
+            "Description": "Centre-Tilt Mechanism with single position locking. P.U. cushion seat & Backrest. Superior Quality Chrome Metal Handles. High Quality Cushion and Composite Leather or Fabric of any color available. Available in both High back and Medium Back. Any color/base as per your choice can be made available.",
+            "Type": "Workstation",
+            "Price": "Rs.9,900",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWSDLX-1021"
+        },
+        {
+            "Name": "SLEEK STR - Medium Back",
+            "Description": "Centre-Tilt Mechanism with single position locking. P.U. cushion seat & Backrest. Superior Quality Chrome Metal Handles. High Quality Cushion and Composite Leather or Fabric of any color available. Available in both High back and Medium Back. Any color/base as per your choice can be made available.",
+            "Type": "Workstation",
+            "Price": "Rs.8,700",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWS-1021"
+        },
+        {
+            "Name": "POLO - High Back",
+            "Description": "Glass filled Nylon base with castor & Class 4 Gas-lift. Centre-Tilt Mechanism with single position locking. P.U. cushion for seat & Backrest. Fixed PU Arms attached with back. High Quality Cushion and Composite Leather or Fabric of any color available. Available in both High back and Medium Back. Any color/handle/base as per your choice can be made available.",
+            "Type": "Workstation",
+            "Price": "Rs. 4,850",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWSDLX-1022"
+        },
+        {
+            "Name": "POLO - Medium Back",
+            "Description": "Glass filled Nylon base with castor & Class 4 Gas-lift. Centre-Tilt Mechanism with single position locking. P.U. cushion for seat & Backrest. Fixed PU Arms attached with back. High Quality Cushion and Composite Leather or Fabric of any color available. Available in both High back and Medium Back. Any color/handle/base as per your choice can be made available.",
+            "Type": "Workstation",
+            "Price": "Rs. 4,200",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWS-1022"
+        },
+        {
+            "Name": "GLORY - High Back",
+            "Description": "Centre-Tilt Mechanism with single position locking. P.U. / Rubber molded cushion for seat and back with hot-pressed plywood. Fixed P.U. Arm-Rest attached with back. High Quality Cushion and Composite Leather or Fabric of any color available. Available in both High back and Medium Back. Any color/base can be arranged as per your demand.",
+            "Type": "Workstation",
+            "Price": "Rs.6,400",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWSDLX-1023"
+        },
+        {
+            "Name": "GLORY - Medium Back",
+            "Description": "Centre-Tilt Mechanism with single position locking. P.U. / Rubber molded cushion for seat and back with hot-pressed plywood. Fixed P.U. Arm-Rest attached with back. High Quality Cushion and Composite Leather or Fabric of any color available. Available in both High back and Medium Back. Any color/base can be arranged as per your demand.",
+            "Type": "Workstation",
+            "Price": "Rs.5,800",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWS-1023"
+        },
+        {
+            "Name": "SONY - High Back",
+            "Description": "Centre-Tilt Mechanism with single position locking. P.U cushion for seat and backrest. Fixed P.U. Arm-Rest attached with back. High Quality Cushion and Composite Leather or Fabric of any color available. Available in both High back and Medium Back. Any color/base as per your choice can be made available.",
+            "Type": "Workstation",
+            "Price": "Rs.7,400",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWSDLX-1024"
+        },
+        {
+            "Name": "SONY - Medium Back",
+            "Description": "Centre-Tilt Mechanism with single position locking. P.U cushion for seat and backrest. Fixed P.U. Arm-Rest attached with back. High Quality Cushion and Composite Leather or Fabric of any color available. Available in both High back and Medium Back. Any color/base as per your choice can be made available.",
+            "Type": "Workstation",
+            "Price": "Rs.6,800",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWS-1024"
+        },
+        {
+            "Name": "VELOCITY DLX",
+            "Description": "Chrome Metal Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Push Back Mechanism with single position locking.P.U cushion back and seat (molded foam) with hot-pressed plywood. Fixed PP Arm-rest. High Quality Cushion and Composite Leather or Fabric of any color available. Any color/handle/base as per your choice can be made available.",
+            "Type": "Workstation",
+            "Price": "Rs. 4,800",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWSDLX-1025"
+        },
+        {
+            "Name": "VELOCITY",
+            "Description": "Plastic Molded Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Push Back Mechanism with single position locking. P.U cushion back and seat (molded foam) with hot-pressed plywood. Fixed PP Arm-rest. High Quality Cushion and Composite Leather or Fabric of any color available. Any color/handle/base as per your choice can be made available. ",
+            "Type": "Workstation",
+            "Price": "Rs.4,400",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWS-1025"
+        },
+        {
+            "Name": "ATLANTIC DLX",
+            "Description": "Chrome Metal Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Push Back Mechanism with single position locking. Glass filled nylon back with fabric mesh. P.U. cushion back and seat (molded foam) with hot-pressed plywood. Fixed PP Arm-rest. High Quality Cushion and Composite Leather or Fabric of any color available. Any color/handle/base as per your choice can be made available",
+            "Type": "Workstation",
+            "Price": "Rs.4,900",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWSDLX-1026"
+        },
+        {
+            "Name": "ATLANTIC",
+            "Description": "Plastic Molded Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Push Back Mechanism with single position locking. Glass filled nylon back with fabric mesh. P.U. cushion back and seat (molded foam) with hot-pressed plywood. Fixed PP Arm-rest. High Quality Cushion and Composite Leather or Fabric of any color available. Any color/handle/base as per your choice can be made available",
+            "Type": "Workstation",
+            "Price": "Rs.4,500",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWS-1026"
+        },
+        {
+            "Name": "SILVER LINE DLX",
+            "Description": "Chrome Metal Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Push Back Mechanism with single position locking. Glass filled nylon back with fabric mesh. P.U. cushion back and seat (molded foam) with hot-pressed plywood. Fixed PP Arm-rest. High Quality Cushion and Composite Leather or Fabric of any color available. Any color/handle/base as per your choice can be made available.",
+            "Type": "Workstation",
+            "Price": "Rs. 4,950",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWSDLX-1027"
+        },
+        {
+            "Name": "SILVER LINE",
+            "Description": "Plastic Molded Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Push Back Mechanism with single position locking. Glass filled nylon back with fabric mesh. P.U. cushion back and seat (molded foam) with hot-pressed plywood. Fixed PP Arm-rest. High Quality Cushion and Composite Leather or Fabric of any color available. Any color/handle/base as per your choice can be made available.",
+            "Type": "Workstation",
+            "Price": "Rs.4,550",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWS-1027"
+        },
+        {
+            "Name": "FLORA DLX",
+            "Description": "Chrome Metal Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Push Back Mechanism with single position locking. P.U. cushion back and seat (molded foam) with hot-pressed plywood. Fixed PP Arm-rest. High Quality Cushion and Composite Leather or Fabric of any color available. Any color/handle/base as per your choice can be made available.",
+            "Type": "Workstation",
+            "Price": "Rs.4,303",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWSDLX-1028"
+        },
+        {
+            "Name": "FLORA",
+            "Description": "Plastic Molded Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Push Back Mechanism with single position locking. P.U. cushion back and seat (molded foam) with hot-pressed plywood. Fixed PP Arm-rest. High Quality Cushion and Composite Leather or Fabric of any color available. Any color/handle/base as per your choice can be made available.",
+            "Type": "Workstation",
+            "Price": "Rs.3,903",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWS-1028"
+        },
+        {
+            "Name": "QUEEN BKT DLX",
+            "Description": "Chrome Metal Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Centre-Tilt Mechanism with single position locking. Heavy-Duty Nylon frame for seat and back. P.U. cushion seat with hot-pressed plywood. Fixed PP Arms attached with back. High Quality Cushion and Composite Leather or Fabric of any color can be made available. Any color/base as per your choice can be made available.",
+            "Type": "Workstation",
+            "Price": "Rs. 5,450",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWSDLX-1029"
+        },
+        {
+            "Name": "QUEEN BKT",
+            "Description": "Plastic Molded Base. Glass filled Nylon base with castor & Class 4 Gas-lift. Centre-Tilt Mechanism with single position locking. Heavy-Duty Nylon frame for seat and back. P.U. cushion seat with hot-pressed plywood. Fixed PP Arms attached with back. High Quality Cushion and Composite Leather or Fabric of any color can be made available. Any color/base as per your choice can be made available.",
+            "Type": "Workstation",
+            "Price": "Rs.5,100",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-ENWS-1029"
+        },
+        {
+            "Name": "GLORY - FX",
+            "Description": "Metal Frame- Black Powder Coated. Heavy-Duty P.U. / Rubber Molded Soft Handle. Superior Quality Rubber Bidding for both Seat and Back. High Quality Cushion Foam / Rubber Molded Foam for both seat and back and Composite Leather or Fabric of any color can be made available. Any color as per your choice can be made available.",
+            "Type": "Visitor",
+            "Price": "Rs.3950",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-VCCS-1030"
+        },
+        {
+            "Name": "POLO - FX",
+            "Description": "Metal Frame- Black Powder Coated. Heavy-Duty P.U. / Rubber Molded Soft Handle. High Quality Cushion Foam / Rubber Molded Foam for both seat and back and Composite Leather or Fabric of any color can be made available. Any color as per your choice can be made available.",
+            "Type": "Visitor",
+            "Price": "Rs.4,850",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-VCCS-1031"
+        },
+        {
+            "Name": "SONY - FX DLX",
+            "Description": "Metal Frame-Chrome Plated. Heavy-Duty P.U. / Rubber Molded Soft Handle. High Quality Cushion Foam for both seat and back. Composite Leather or Fabric of any color can be made available. Any color/handle/base as per your choice can be made available.",
+            "Type": "Visitor",
+            "Price": "Rs. 5,200",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-VCCSDLX-1032"
+        },
+        {
+            "Name": "SONY - FX",
+            "Description": "Metal Frame- Black Powder Coated. Heavy-Duty P.U. / Rubber Molded Soft Handle. High Quality Cushion Foam for both seat and back. Composite Leather or Fabric of any color can be made available. Any color/handle/base as per your choice can be made available.",
+            "Type": "Visitor",
+            "Price": "Rs. 4,725",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-VCCS-1032"
+        },
+        {
+            "Name": "ORBIT CUSHION - FX DLX",
+            "Description": "Metal Frame-Chrome Plated. High Quality Cushion Foam / Rubber Molded Foam for both seat and back and Composite Leather or Fabric of any color can be made available. Any color for seat and back as per your choice can be made available.",
+            "Type": "Visitor",
+            "Price": "Rs.3,000",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-VCCSDLX-1033"
+        },
+        {
+            "Name": "ORBIT CUSHION - FX",
+            "Description": "Metal Frame- Black Powder Coated. High Quality Cushion Foam / Rubber Molded Foam for both seat and back and Composite Leather or Fabric of any color can be made available. Any color for seat and back as per your choice can be made available.",
+            "Type": "Visitor",
+            "Price": "Rs.2,525",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-VCCS-1033"
+        },
+        {
+            "Name": "ORBIT NET- FX DLX",
+            "Description": "Metal Frame-Chrome Plated. High Quality Cushion Foam / Rubber Molded Foam for seat and Superior Quality Net for back and Composite Leather or Fabric of any color can be made available for seat. Any color for seat as per your choice can be made available.",
+            "Type": "Visitor",
+            "Price": "Rs.4,800",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-VCCSDLX-1034"
+        },
+        {
+            "Name": "ORBIT NET- FX",
+            "Description": "Metal Frame- Black Powder Coated. High Quality Cushion Foam / Rubber Molded Foam for seat and Superior Quality Net for back and Composite Leather or Fabric of any color can be made available for seat. Any color for seat as per your choice can be made available.",
+            "Type": "Visitor",
+            "Price": "Rs.4,575",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-VCCS-1034"
+        },
+        {
+            "Name": "SLEEK STR - FX",
+            "Description": "Metal Frame- Chrome Plated. High Quality Cushion Foam for seat and back. Composite Leather or Fabric of any color can be made available.",
+            "Type": "Visitor",
+            "Price": "Rs.8,300",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-VCCS-1035"
+        },
+        {
+            "Name": "MERCURY- FX",
+            "Description": "Metal Frame- Black Powder Coated. Heavy-Duty Fixed Plastic Molded Handle attached. High Quality Cushion Foam for seat and Superior Quality Net for backrest. Composite Leather or Fabric of any color can be made available for seat. Any color for seat as per your choice can be made available.",
+            "Type": "Visitor",
+            "Price": "Rs.5,800",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-VCCS-1036"
+        },
+        {
+            "Name": "EVO- FX DLX",
+            "Description": "Metal Frame- Chrome Plated. Heavy-Duty Plastic Molded Back and Arm-Rests. High Quality Cushion Foam for seat and Composite Leather or Fabric of any color can be made available for seat. Any color for seat as per your choice can be made available.",
+            "Type": "Visitor",
+            "Price": "Rs.3,000",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-VCCSDLX-1037"
+        },
+        {
+            "Name": "EVO- FX",
+            "Description": "Metal Frame-Black Powder Coated. Heavy-Duty Plastic Molded Back and Arm-Rests. High Quality Cushion Foam for seat and Composite Leather or Fabric of any color can be made available for seat. Any color for seat as per your choice can be made available.",
+            "Type": "Visitor",
+            "Price": "Rs.2,700",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-VCCS-1037"
+        },
+        {
+            "Name": "EON- FX DLX",
+            "Description": "Metal Frame- Chrome Plated. Heavy-Duty Plastic Molded Back and Arm-Rests. High Quality Cushion Foam for seat and Composite Leather or Fabric of any color can be made available for seat. Any color for seat as per your choice can be made available.",
+            "Type": "Visitor",
+            "Price": "Rs.3,500",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-VCCSDLX-1038"
+        },
+        {
+            "Name": "EON- FX",
+            "Description": "Metal Frame- Black Powder Coated. Heavy-Duty Plastic Molded Back and Arm-Rests. High Quality Cushion Foam for seat and Composite Leather or Fabric of any color can be made available for seat. Any color for seat as per your choice can be made available.",
+            "Type": "Visitor",
+            "Price": "Rs.3,200",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-VCCS-1038"
+        },
+        {
+            "Name": "FLEXI CUSHION -FX",
+            "Description": "Metal Frame- Black Powder Coated. High Quality Cushion Foam for seat and backrest. Composite Leather or Fabric of any color can be made available for seat and back. Any color for seat and back as per your choice can be made available.",
+            "Type": "Visitor",
+            "Price": "Rs.1800",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-VCCS-1039"
+        },
+        {
+            "Name": "FLEXI PERFO METAL - FX",
+            "Description": "Metal Frame- Black Powder Coated without handle. Any color can be made available as per your choice at Rs.350 extra.",
+            "Type": "Visitor",
+            "Price": "Rs.1500",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-VCCS-1040"
+        },
+        {
+            "Name": "FLEXI METAL - FX",
+            "Description": "Metal Frame- Black Powder Coated with handle. Any color can be made available as per your choice at Rs.350 extra.",
+            "Type": "Visitor",
+            "Price": "Rs.1650",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-VCCS-1041"
+        },
+        {
+            "Name": "EVO TABLET- FX",
+            "Description": "Metal Frame- Black Powder Coated with handle. Half Tablet- MDF / Plastic. Heavy-Duty Plastic Molded Back. High Quality Cushion Foam for seat. Any color for seat as per your choice can be made available.",
+            "Type": "Training",
+            "Price": "Rs.3,850",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-EDUS-1042"
+        },
+        {
+            "Name": "FLEXI METAL TABLET - FX",
+            "Description": "Metal Frame- Black Powder Coated with handle Half Tablet- MDF / Plywood. Any color can be made available as per your choice at Rs.350 extra.",
+            "Type": "Training",
+            "Price": "Rs.2050",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-EDUSHT-1043"
+        },
+        {
+            "Name": "FLEXI METAL TABLET - FX DLX",
+            "Description": "Metal Frame- Black Powder Coated with handle Full Tablet- MDF / Plywood. Any color can be made available as per your choice at Rs.350 extra.",
+            "Type": "Training",
+            "Price": "Rs.2200",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-EDUSFT-1043"
+        },
+        {
+            "Name": "EON TABLET- FX LN",
+            "Description": "Metal Frame- Black Powder Coated with Plastic Molded handle and Leg Net. Tablet- MDF/Plywood with Edge Binding. Heavy-Duty Plastic Molded Back. High Quality Cushion Foam for seat. Any color for seat as per your choice can be made available.",
+            "Type": "Training",
+            "Price": "Rs.4,450",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-EDUSLN-1044"
+        },
+        {
+            "Name": "EON TABLET- FX",
+            "Description": "Metal Frame- Black Powder Coated with Plastic Molded handle. Tablet- MDF/Plywood with Edge Binding. Heavy-Duty Plastic Molded Back. High Quality Cushion Foam for seat. Any color for seat as per your choice can be made available.",
+            "Type": "Training",
+            "Price": "Rs.3,800",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-EDUS-1045"
+        },
+        {
+            "Name": "CLASSIC WOODEN TABLET FX",
+            "Description": "Heavy-Duty Durable Metal FrameChrome Plated. Wooden Mold for Seat, Back and full Tablet.",
+            "Type": "Training",
+            "Price": "Rs.3,450",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-EDUS-1046"
+        },
+        {
+            "Name": "APOLLO CUSHION- Two Seats",
+            "Description": "Metal Frame- Perforated, Chrome Plated. Superior Quality Cushion for Seat and Back. Any color Composite Leather / Fabric for Seat and Back",
+            "Type": "Visitor-Waiting-Unit",
+            "Price": "Rs.12850",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-VWUS-TH-1047"
+        },
+        {
+            "Name": "APOLLO CUSHION- Three Seats",
+            "Description": "Metal Frame- Perforated, Chrome Plated. Superior Quality Cushion for Seat and Back. Any color Composite Leather / Fabric for Seat and Back",
+            "Type": "Visitor-Waiting-Unit",
+            "Price": "Rs.9650",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-VWUS-TW-1047"
+        },
+        {
+            "Name": "APOLLO PERFO METAL- Two Seats",
+            "Description": "Metal Frame- Perforated, Chrome Plated.",
+            "Type": "Visitor-Waiting-Unit",
+            "Price": "Rs.8200",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-VWUS-TW-1048"
+        },
+        {
+            "Name": "APOLLO PERFO METAL- Three Seats",
+            "Description": "Metal Frame- Perforated, Chrome Plated.",
+            "Type": "Visitor-Waiting-Unit",
+            "Price": "Rs.10650",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-VWUS-TH-1048"
+        },
+        {
+            "Name": "FLEXI PERFO METAL-Two Seats",
+            "Description": "Metal Frame- Perforated, Black Powder Coated. If any other color is required, Rs.1500 extra.",
+            "Type": "Visitor-Waiting-Unit",
+            "Price": "Rs.3850",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-VWUS-TW-1049"
+        },
+        {
+            "Name": "FLEXI PERFO METAL-Three Seats",
+            "Description": "Metal Frame- Perforated, Black Powder Coated. If any other color is required, Rs.1500 extra.",
+            "Type": "Visitor-Waiting-Unit",
+            "Price": "Rs.5450",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-VWUS-TH-1049"
+        },
+        {
+            "Name": "DELIGHT PERFO- Two Seats",
+            "Description": "Metal Frame- Perforated, Silver Powder Coated.",
+            "Type": "Visitor-Waiting-Unit",
+            "Price": "Rs.9450",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-VWUS-TW-1050"
+        },
+        {
+            "Name": "DELIGHT PERFO- Three Seats",
+            "Description": "Metal Frame- Perforated, Silver Powder Coated.",
+            "Type": "Visitor-Waiting-Unit",
+            "Price": "Rs.12450",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-VWUS-TH-1050"
+        },
+        {
+            "Name": "SWEDEN - HC",
+            "Description": "Heavy-Duty Durable Metal FramePowder Coated. Color:-Black, Blue, Red, YellowRs.175 extra.",
+            "Type": "High-Counter",
+            "Price": "Rs.2,900",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-HICS-1051"
+        },
+        {
+            "Name": "MAGICA - HC",
+            "Description": "Heavy-Duty Durable Chrome Metal Base -Chrome Plated Hydraulic System. Color-Black, Blue, Red, YellowRs.150 extra.",
+            "Type": "High-Counter",
+            "Price": "Rs.6,500",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-HICS-1052"
+        },
+        {
+            "Name": "DOLPHIN - HC",
+            "Description": "Heavy-Duty Durable Chrome Metal Base -Chrome Plated Hydraulic System.",
+            "Type": "High-Counter",
+            "Price": "Rs.6,700",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-HICS-1053"
+        },
+        {
+            "Name": "ROBOT - HC",
+            "Description": "Heavy-Duty Durable Chrome Metal Base -Chrome Plated Hydraulic System.",
+            "Type": "High-Counter",
+            "Price": "Rs.6,200",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-HICS-1054"
+        },
+        {
+            "Name": "TWIST - HC",
+            "Description": "Heavy-Duty Durable Chrome Metal Base -Chrome Plated Hydraulic System.",
+            "Type": "High-Counter",
+            "Price": "Rs.6,200",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-HICS-1055"
+        },
+        {
+            "Name": "SWEDEN CAFE CHAIR",
+            "Description": "Heavy-Duty Durable Metal FramePowder Coated. Color Options: Black, Blue, Red, Yellow.",
+            "Type": "Cafeteria-Restaurant",
+            "Price": "Rs.2,900",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-CACS-1056"
+        },
+        {
+            "Name": "BRITAIN CAFE CHAIR",
+            "Description": "Heavy-Duty Durable Plastic Mold with Cushion. High Quality Wooden Base.",
+            "Type": "Cafeteria-Restaurant",
+            "Price": "Rs.5,900",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-CACS-1057"
+        },
+        {
+            "Name": "BRITAIN CAFE CHAIR- DLX",
+            "Description": "Heavy-Duty Durable Plastic Mold with Cushion. High Quality Wooden Base.",
+            "Type": "Cafeteria-Restaurant",
+            "Price": "Rs.6,500",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-CACS-1058"
+        },
+        {
+            "Name": "STELLA CAFE CHAIR",
+            "Description": "Heavy-Duty Durable Chrome Metal Frame. Wooden Molded Seat.",
+            "Type": "Cafeteria-Restaurant",
+            "Price": "Rs.2,900",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-CACS-1059"
+        },
+        {
+            "Name": "LUCY CAFE CHAIR",
+            "Description": "Heavy-Duty Durable Metal FramePowder Coated. Color Options: Black, Blue, Red, Yellow.",
+            "Type": "Cafeteria-Restaurant",
+            "Price": "Rs.2,900",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-CACS-1060"
+        },
+        {
+            "Name": "NOVA CAFE CHAIR",
+            "Description": "Heavy-Duty Durable Chrome Metal Frame. Wooden Molded Seat and Back.",
+            "Type": "Cafeteria-Restaurant",
+            "Price": "Rs. 2,900",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-CACS-1061"
+        },
+        {
+            "Name": "NANCY CAFE CHAIR",
+            "Description": "Heavy-Duty Durable Chrome Metal Frame. Wooden Molded Seat and Back.",
+            "Type": "Cafeteria-Restaurant",
+            "Price": "Rs. 2,900",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-CACS-1062"
+        },
+        {
+            "Name": "STAINLESS STEEL CHAIR",
+            "Description": "Heavy-Duty Durable Stainless Steel Frame with SS Sheet Metal.",
+            "Type": "Cafeteria-Restaurant",
+            "Price": "Rs.4,000",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-CACS-1063"
+        },
+        {
+            "Name": "AURA SOFA",
+            "Description": "Heavy-Duty Durable Composite Leather / Fabric of any color can be made available as per your choice. High Quality- Wooden Frame Structure for Seat and Back. Heavy Density- Foam for Seat and Back. Designer Outside Frame is made with MS Chrome Plating.",
+            "Type": "Sofa",
+            "Price": "Single Seat: Rs. 25,000 \nDouble Seat: Rs. 45,000 \nThree Seats: Rs. 65,000",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-SS-5001"
+        },
+        {
+            "Name": "HERITAGE SOFA",
+            "Description": "Heavy-Duty Durable Composite Leather / Fabric of any color / material can be made available as per your choice. . High Quality Wooden Frame Structure for Seat and Back. Heavy Density Foam for Seat and Back.",
+            "Type": "Sofa",
+            "Price": "Single Seat: Rs.28,500 \nDouble Seats: Rs.53,000 \nThree Seats: Rs.78,000",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-SS-5002"
+        },
+        {
+            "Name": "STALLION SOFA",
+            "Description": "Heavy-Duty Durable Composite Leather / Fabric of any color / material can be made available as per your choice. High Quality Wooden Frame Structure for Seat and Back. Heavy Density Foam for Seat and Back.",
+            "Type": "Sofa",
+            "Price": "Single Seat: Rs.24,500 \nDouble Seats: Rs.45,000 \nThree Seats: Rs.72,000",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-SS-5003"
+        },
+        {
+            "Name": "Roller-Blinds FOR WINDOW",
+            "Description": "Available in all sizes. Color options are also available.",
+            "Type": "Roller-Blinds",
+            "Price": "Rs.100-Rs.150/ Sq. ft.",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI- WIBS-101"
+        },
+        {
+            "Name": "PRINTED Roller-Blinds FOR WINDOW",
+            "Description": "Available in all sizes. Available in different prints & colors.",
+            "Type": "Roller-Blinds",
+            "Price": "Rs.130-Rs.200/ Sq. ft.",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI- WIBS-102"
+        },
+        {
+            "Name": "VERTICAL BLINDS FOR WINDOW.",
+            "Description": "Available in all sizes. Color Options are also available.",
+            "Type": "Roller-Blinds",
+            "Price": "Rs.100-Rs.150/ Sq. ft.",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI- WIBS-103"
+        },
+        {
+            "Name": "WOODEN BLINDS FOR WINDOW",
+            "Description": "Available in all sizes. Color Options are also available",
+            "Type": "Roller-Blinds",
+            "Price": "Rs.100-Rs.150/ Sq. ft.",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI- WIBS-104"
+        },
+        {
+            "Name": "GAMING CHAIR",
+            "Description": "Color Options are also available. It is the perfect chair for a passionate gamer, and also for office workers who wish to be more comfortable while they work. The ergonomic computer chair with the high-density memory foam seat, the high backrest, and the adjustable 2D armrests will become your favourite piece of furniture. Material: PVC Leather and Nylon 5-stars Leg Gas lift: Class-3 Dimension: 69 x 52 x (126-35.55) cm Weight: 17.5 Kg Maximum weight capacity: 250 lbs. Function: Lumbar cushion with massage function by using USB connection.",
+            "Type": "Gaming",
+            "Price": "Rs. 28,500",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-GAMS-9001"
+        },
+        {
+            "Name": "GAMING CHAIR-DLX",
+            "Description": "It is the perfect chair for passionate gamers and also for office workers who wish to be more comfortable while they work. The ergonomic computer chair with the high-density memory foam seat, the high backrest, and the flexible armrests will become your favourite piece of furniture. Material: PVC Leather and Nylon 5-stars Leg Gas lift: Class-3 Dimension: 63.5 x 56 x (122-130) cm Weight: 17.5 Kg Maximum weight capacity: 250 lbs. Function: Footrest for a rest and Lumbar cushion with massage function by using USB connection.",
+            "Type": "Gaming",
+            "Price": "Rs. 32,300",
+            "Discount Percent": "",
+            "Discounted Price": "",
+            "Itemno": "SPI-GAMS-9002"
+        }
+    ]
+}
